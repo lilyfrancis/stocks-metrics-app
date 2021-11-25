@@ -4,7 +4,7 @@
 
 >This is a mobile web application that collects information from an API to provide comprehensive stocks data.
 
-![Image](./assets/cover.png)
+![Image](./src/assets/cover.png)
 
 
 **Additional description about the project and its features.**
