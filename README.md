@@ -1,10 +1,10 @@
-# stocks-metrics-app![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Stock Metrics APP
 
 >This is a mobile web application that collects information from an API to provide comprehensive stocks data.
 
-![Image](./src/assets/cover.png)
+![Image](./images/cover.png)
 
 
 **Additional description about the project and its features.**
@@ -44,7 +44,7 @@ If you have installed git you can clone the code to your machine, or download a 
 [Download the ZIP from this location](https://github.com/lilyfrancis/stocks-metrics-webapp/archive/refs/heads/development.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/lilyfrancis/stocks-metrics-app.git
+git clone https://github.com/lilyfrancis/stocks-data-app.git
 ```
 
 ### **Prerequisites**
