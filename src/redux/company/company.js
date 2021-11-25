@@ -23,4 +23,15 @@ export const fetchCompanyFinancials = (symbol) => async (dispatch) => {
   dispatch(companyFinances(obj));
 };
 
+const reducer = (state = initialState, action) => {
+  switch (action.type) {
+    case COMPANY_FINANCES:
+      return {
+        payload: action.payload,
+      };
+    default:
+      return state;
+  }
+};
 
+export default reducer;
